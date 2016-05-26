@@ -1,4 +1,15 @@
-Activity One
+# Activity One (1 hour)
+
+**Worksheet Download:**
+
+**Steps:**
+
+1. Find a partner
+2. Worksheet - Step 1 (5 minutes)
+2. Worksheet - Step 2 (10 minutes)
+3. Worksheet - Step 3 (10 minutes)
+4. Worksheet - Step 4 (10 minutes)
+5. Worksheet - Step 5 (10 minutes)
 
 Temperary notes:
 - intro exercise
