@@ -6,6 +6,7 @@ Using the ideas and tools learned from the first activity, you will now create c
 **Worksheet Download:**
 
 **Steps:**
+
 1. Create a new gitbook
 2. Create a (collection, sequence, lesson, topic, etc.)
 3. Using the OERSchema plugin, add tags to content
