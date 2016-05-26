@@ -9,6 +9,6 @@ Date: July, 18th, 2016
 - (.25hr) Break
 - () Discussion
 - (1hr) Activity Two
-- (.25hr) Break (15 minutes)
+- (.25hr) Break
 - (1hr) Activity Three
 - () Wrap-up
