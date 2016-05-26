@@ -7,8 +7,8 @@ Date: July, 18th, 2016
 - (.25hr) Introduction
 - (1hr) Activity One
 - (.25hr) Break
-- (.75hr) Discussion
 - (1hr) Activity Two
 - (.25hr) Break
 - (1hr) Activity Three
+- (.75hr) Discussion
 - (.25hr) Wrap-up
