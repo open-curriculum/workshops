@@ -28,13 +28,14 @@ Todo list:
 ---
 
 Acitivity idea notes:
+
 1. Intro activity, that describes concepts of tagging
-    - ToDo** Come up with this activity
+  - ToDo** Come up with this activity
 2. Intermediate activity
-    - Apply provided tags to a given problem
+  - Apply provided tags to a given problem
 3. Advanced Activity: Apply existing or new course in git book
- - Show what OERSchema tags are for, and why they are awesome
- - Help translate course content into an OER gitbook (has all the tags)
-     - add license to gitbook
+  - Show what OERSchema tags are for, and why they are awesome
+  - Help translate course content into an OER gitbook (has all the tags)
+    - add license to gitbook
 4. publish book
 
