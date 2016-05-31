@@ -9,10 +9,10 @@ Pre-workshop:
    - [ ] Summer 2016 Event Link
    - [ ] Holder for next event with mailchimp signup
 3. [ ] Get OERSchema to a functional state
-4. [ ] Finish OER GitBook as much as possible
-5. [ ] Build and test gitbook plugin
-6. [ ] Finish workshop activities
-7. [ ] Logo
+4. [ ] Logo design
+5. [ ] Finish OER GitBook as much as possible
+6. [ ] Build and test gitbook plugin
+7. [ ] Finish workshop activities
 8. [ ] Send Workshop Invites
 9. [ ] Food?
 10. [ ] Room schedule
