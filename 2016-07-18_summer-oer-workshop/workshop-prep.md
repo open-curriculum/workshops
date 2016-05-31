@@ -1,6 +1,6 @@
-OER Workshop Prep
+# OER Workshop Prep
 
-Pre-workshop:
+## Pre-workshop:
 
 1. [ ] Build workshop invite page
    - [x] Decide on jekyll theme
@@ -33,6 +33,17 @@ Pre-workshop:
      - [ ] Who was there
      - [ ] Pictures
 
+## Schedule
+
+| Date | Item | Assigned |
+|------|------|----------|
+|      |      |          |
+|      |      |          |
+|      |      |          |
+|      |      |          |
+|      |      |          |
+|      |      |          |
+|      |      |          |
 
 ---
 
