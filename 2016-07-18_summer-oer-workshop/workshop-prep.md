@@ -3,6 +3,7 @@ OER Workshop Prep
 Pre-workshop:
 
 1. [ ] Build workshop invite page
+   - [ ] Install Theme: https://mmistakes.github.io/minimal-mistakes/
 2. [x] Setup workshops.oerschema.org
    - [ ] Summer 2016 Event Link
    - [ ] Holder for next event with mailchimp signup
