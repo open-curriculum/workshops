@@ -59,3 +59,8 @@ Acitivity idea notes:
     - add license to gitbook
 4. publish book
 
+---
+
+**Unrelated Todo:**
+
+1. Produce youtube video comparison on using existing OER
