@@ -22,3 +22,11 @@ Temperary notes:
 
 - show-n-tell
 - document
+
+---
+
+Notes:
+
+1. Groups of 2 people each make a single lesson with the lessons templates.
+  - Write labels, attach tags as learning outcomes, etc.
+2. At the end, lessons are put together on the wall, showing how OER components come together to form a course from many people.
