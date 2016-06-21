@@ -2,13 +2,13 @@
 
 ## ToDos as of June 17, 2016
 
-1. Start presentation (Katrina)
-2. Practice the activities
-3. Write emails (Katrina)
-4. Create sample gitbook to fork (Alex)
-5. create plugin if possible, use to create sample gitbook (Alex)
-6. Design founding workshop badge/sticker? 
-7. Stickers (stickerU.com)
+1. [x] Start presentation (Katrina)
+2. [ ] Practice the activities
+3. [x] Write emails (Katrina)
+4. [ ] Create sample gitbook to fork (Alex)
+5. [ ] create plugin if possible, use to create sample gitbook (Alex)
+6. [ ] Design founding workshop badge/sticker? 
+7. [ ] Stickers (stickerU.com)
  
 ## Pre-workshop:
 
