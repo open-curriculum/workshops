@@ -1,15 +1,20 @@
 # Workshop Details
 Date: July, 18th, 2016
-Location:
+Location: 210 Patterson Bldg
 
 ## Schedule
 
-- (.5 hr) Check-in (coffee)
-- (.25hr) Introduction
-- (1hr) Activity One
-- (.25hr) Break
-- (1hr) Activity Two
-- (.25hr) Break
-- (1hr) Activity Three
-- (.75hr) Discussion
-- (.25hr) Wrap-up
+9:45am - 10:15am  
+Coffee
+
+10:15am - 10:45am  
+Recap Presentation
+
+10:45am - 12:00  
+Activity 1 and Discussion
+
+12:00 - 1:00pm  
+LUNCH
+
+1pm - 3:30pm  
+Hands-on OER production session and discussion
