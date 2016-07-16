@@ -1,5 +1,5 @@
 # Workshop Details
-Date: July, 18th, 2016
+Date: July, 18th, 2016  
 Location: 210 Patterson Bldg
 
 ## Schedule
